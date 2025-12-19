@@ -1,0 +1,9 @@
+      <a href="/" class="logo-link">
+          <img src="public/assets/iteration-1/logo.svg" alt="Logo Resmi" class="logo" />
+        </a>
+        <div class="main-content">
+          <p class="small-text">fırsatı kaçırma</p>
+          <h1>KOD ACIKTIRIR <br> PIZZA, DOYURUR</h1>
+          <button class="btn">ACIKTIM</button>
+        </div>
+      </header>
